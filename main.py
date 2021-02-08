@@ -5,6 +5,7 @@ def lesson2():
 
   cont = True
   while cont == True:
+    print("Welcome to the Python Turtle IDE\n\n\n\n")
     choice = input("Enter 1 to move the turtle forward, 2 to move backwards, 3 to turn left, 4 to turn right, 5 to clear your drawing, and 6 to stop drawing.\n")
     if choice == "1":
       length = input("How far do you want to move forward?")
