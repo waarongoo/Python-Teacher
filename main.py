@@ -6,8 +6,8 @@ def lesson2():
 
 
   print("Welcome to the Python Turtle IDE\n\n\n\n")
-  go = 9
-  while go > 10:
+  go = True
+  while go == True:
     choice = input("Enter 1 to move the turtle forward, 2 to move backwards, 3 to turn left, 4 to turn right, 5 to clear your drawing. 6, to stop drawing\n")
     if choice == "1":
       length = input("How far do you want to move forward?")
@@ -27,6 +27,7 @@ def lesson2():
     if choice == "6":
       go+2
       print("Did you have fun? If so great! Lets go to the next lesson")
+
       
       
 
