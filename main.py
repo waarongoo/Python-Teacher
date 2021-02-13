@@ -7,7 +7,7 @@ import time
 def lesson3():
     print("Time to practice that you just learned")
     user = input("How do you print something in the console ")
-  
+
     if user == "print()":
         print("Good Job!")
         print("Your lesson ended. Have a good day!")
