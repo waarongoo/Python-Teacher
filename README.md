@@ -1,15 +1,17 @@
 
-# Python Teacher-BETA-0.1.0
+# Python Teacher-BETA-0.2.0
 #### This Script can only be run on https://repl.it due to it using REPL DB
 [![Run on Repl.it](https://repl.it/badge/github/waarongoo/Python-Teacher)](https://repl.it/github/waarongoo/Python-Teacher)
-### Version BETA 0.1.0
+### Version BETA 0.2.0
 # Database: Replit DB
 ## Packages needed for the project to work 
-
 ```python
 import turtle
+from termcolor import colored
+import sys
+import time
 ```
-
+Run Project here: https://Shorter.repl.co/pythonteacher
 ## Copyright/Legal Info
 # MIT License
 
