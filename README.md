@@ -10,7 +10,7 @@ from termcolor import colored
 import sys
 import time
 ```
-Run Project here: https://Shorter.repl.co/pythonteacher
+
 ## Copyright/Legal Info
 # MIT License
 
