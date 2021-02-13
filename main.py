@@ -1,5 +1,6 @@
 import turtle
-
+def lesson3():
+  print("")
 def lesson2():
   print("Ok so for this next lesson we are gonna use something called turtle. What is turtle? It is like the animal turtle you may ask? No, its a python package for drawing. Is it slow? No its very fast depending on REPLs computer resources\n\n\n")
   print("In this package, we can do many different things with the turtle. Now choose what do you want to do with the turtle.")
@@ -25,8 +26,10 @@ def lesson2():
       print("Your have cleared your drawing! All of your work is now unrecoverable!")
       turtle.clear()
     if choice == "6":
-      go+2
+      go=False
       print("Did you have fun? If so great! Lets go to the next lesson")
+      lesson3()
+
 
       
       
