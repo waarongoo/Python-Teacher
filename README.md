@@ -1,4 +1,3 @@
-
 # Python Teacher-BETA-0.2.0
 
 [![Run on Repl.it](https://repl.it/badge/github/waarongoo/Python-Teacher)](https://repl.it/github/waarongoo/Python-Teacher)
