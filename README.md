@@ -3,7 +3,7 @@
 [![Run on Repl.it](https://repl.it/badge/github/waarongoo/Python-Teacher)](https://repl.it/github/waarongoo/Python-Teacher)
 ### Version BETA 0.2.0
 
-## Packages needed for the project to work 
+## Packages required for the project to work 
 ```python
 import turtle
 from termcolor import colored
